@@ -1,2 +1,2 @@
-# tkinter_python_app
+# Python Tkinter application
 Simple python tkinter GUI application.

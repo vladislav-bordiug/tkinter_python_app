@@ -19,7 +19,7 @@ Simple python tkinter GUI application.
 
 ![image](https://github.com/vladislav-bordiug/tkinter_python_app/assets/60838512/64e96c9b-7722-4c12-b796-2400690249b2)
 
-![image](https://github.com/vladislav-bordiug/tkinter_python_app/assets/60838512/5e24f177-92eb-4645-9510-6bf0413715e4)
+![image](https://github.com/vladislav-bordiug/tkinter_python_app/assets/60838512/94a79ada-ae36-47b9-9759-5a52d2527d84)
 
 ![image](https://github.com/vladislav-bordiug/tkinter_python_app/assets/60838512/cfa841d4-00ed-4008-ba77-265135bbf865)
 
